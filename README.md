@@ -71,4 +71,4 @@ Built for academic coursework (MCSD2163 — Machine Learning in Finance, Master'
 
 ## Author
 
-Nur Aina Farraain Binti [your name as you'd like it shown] — Master's student, Faculty of Computing, Universiti Teknologi Malaysia
+Nur Aina Farraain 
